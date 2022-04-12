@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently interested in full stack web development
-- 🌱 I’m currently learning everything about web technologies
+- 🌱 I’m currently learning everything in web technologies
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: ...
 
