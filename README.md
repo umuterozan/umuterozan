@@ -4,8 +4,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently interested in full stack web development
 - 🌱 I’m currently learning everything in web technologies
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
+- 👯 I’m looking to collaborate on full stack web development
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/umuterozan/" target="blank">LinkedIn</a>
 
 <hr>
 
